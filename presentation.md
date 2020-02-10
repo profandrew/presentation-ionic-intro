@@ -6,21 +6,21 @@ revealOptions:
 ---
 
 <img src='assets/ionic.png' style="width: 20%;"/>
+
 ### Introdução ao IONIC
 
-Autor: Andrew Ribeiro
+<small>Professor Andrew Ribeiro</small>
 
 ---
-### Plano de Aula
-- O que é IONIC?
+### Conteúdo Programático
+- O que é ionic?
 - História
 - Arquitetura
-- Como funciona
 - Exemplos
 
 ---
 
-### O que é IONIC?
+### O que é ionic?
 <img src='assets/ionic.png' style="width: 40%;"/>
 
 
@@ -86,9 +86,11 @@ Em 2016, diversos lançamentos da versão 2.0. <!-- .element: class="fragment" -
 
 <!-- .slide: data-background="assets/ionic_2013.png" -->
 
-Janeiro de 2019
+Janeiro de 2019 versão 4.0
 
-## IONIC 4
+Janeiro de 2020
+
+### IONIC 5
 
 ---
 
@@ -106,6 +108,4 @@ Janeiro de 2019
 
 ---
 
-### Como funciona?
-
-<img src="assets/engine.png" style="width: 30%"/>
+### Exemplos
